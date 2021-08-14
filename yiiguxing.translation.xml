@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="to Common Data" />
       <item value="Out of range value for column 'uuid' at row 1" />
       <item value="argument type mismatch" />
       <item value="Could not create connection to database server" />
@@ -53,12 +54,11 @@
       <item value="connect Blocking" />
       <item value="'lateinit' modifier is not allowed on properties of primitive types" />
       <item value="callback" />
-      <item value="Mutable List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2184" />
-        <entry key="ENGLISH" value="2185" />
+        <entry key="CHINESE" value="2185" />
+        <entry key="ENGLISH" value="2186" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
