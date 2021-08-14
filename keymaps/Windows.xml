@@ -1,0 +1,3 @@
+<keymap version="1" name="Windows复制" parent="$default">
+  <action id="OpenCodotaSearch" />
+</keymap>
