@@ -1,0 +1,16 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="loge@userDefined" key=".loge" provider="builtin.java" language-level="8" topmost="false">
+      <conditions>
+        <condition id="notPrimitive" />
+      </conditions>
+      <template name="fakeKey" value="log.error($EXPR$.getMessage(),$EXPR$);" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="toMiraiText@userDefined" key=".toMiraiText" provider="builtin.java" language-level="8" topmost="false">
+      <conditions>
+        <condition id="fqn" fqn="forpleuvoir.dhwuia.core.common.IMiraiText" />
+      </conditions>
+      <template name="fakeKey" value="IMiraiText.toMiraiText($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>

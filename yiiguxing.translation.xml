@@ -1,0 +1,89 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogX" value="891" />
+    <option name="newTranslationDialogY" value="266" />
+    <histories>
+      <item value="java.lang.Instantiation Exception:" />
+      <item value="forpleuvoir.suika.vertx learn.Main Vertx Kt" />
+      <item value="FAILED" />
+      <item value="Could not resolve" />
+      <item value="Could not set process working directory to 'D:\workspace\kotlin\suika\api': could not set current directory (errno 2)" />
+      <item value="Could not resolve compiler classpath. Check if Kotlin Gradle plugin repository is configured in project ':api'." />
+      <item value="Cannot resolve external dependency org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.21 because no repositories are defined." />
+      <item value="Could not compile build file" />
+      <item value="Plugin [id: 'org.openjfx.javafxplugin'] was not found in any of the following sources:" />
+      <item value="Plugin request for plugin already on the classpath must not include a version" />
+      <item value="Location Aware Exception" />
+      <item value="DefaultClassLoaderScope@15afe455 must be locked before it can be used to compute a classpath" />
+      <item value="relative" />
+      <item value="Relative Time Converter" />
+      <item value="get Fully Qualified Name" />
+      <item value="Classic Converter" />
+      <item value="get Logger Name" />
+      <item value="MDC Converter" />
+      <item value="Entry forpleuvoirdhwu1acorecommonApiKeyKt.class is a duplicate but no duplicate handling strategy has been set" />
+      <item value="caller" />
+      <item value="marker" />
+      <item value="Context Name Converter" />
+      <item value="get Name" />
+      <item value="Class Of Caller Converter" />
+      <item value="configuration" />
+      <item value="Entry logback.xml is a duplicate but no duplicate handling strategy has been set. Please refer to" />
+      <item value="&gt; Entry logback.xml is a duplicate but no duplicate handling strategy has been set. Please refer to" />
+      <item value="Could not find org.jetbrains.kotlin:kotlin-stdlib-jdk16:1.5.20." />
+      <item value="initialize" />
+      <item value="initlize" />
+      <item value="Sends &lt;var&gt;text&lt;var&gt; to the connected websocket server." />
+      <item value="Callback for string messages received from the remote host" />
+      <item value="Calls subclass' implementation of &lt;var&gt;onMessage&lt;var&gt;." />
+      <item value="Callback for binary messages received from the remote host" />
+      <item value="get Profile Async" />
+      <item value="Switching Protocols" />
+      <item value="connect Blocking" />
+      <item value="'lateinit' modifier is not allowed on properties of primitive types" />
+      <item value="callback" />
+      <item value="Mutable List" />
+      <item value="Exception In Initializer Error" />
+      <item value="Expected END_ARRAY but was BEGIN_OBJECT at path .nodeList[0].messageChain[1]" />
+      <item value="plus" />
+      <item value="Expected STRING but was NULL at path .nodeList[2].messageChain[0].path" />
+      <item value="Suppresses the given compilation warnings in the annotated element." />
+      <item value="Unresolved reference: message" />
+      <item value="Check your module classpath for missing or conflicting dependencies" />
+      <item value="java Class" />
+      <item value="Unresolved reference: EventHandlerParser" />
+      <item value="component Type" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2172" />
+        <entry key="ENGLISH" value="2173" />
+        <entry key="DANISH" value="10" />
+        <entry key="GERMAN" value="3" />
+        <entry key="RUSSIAN" value="1" />
+        <entry key="FRENCH" value="6" />
+        <entry key="FILIPINO" value="1" />
+        <entry key="CATALAN" value="4" />
+        <entry key="LATIN" value="2" />
+        <entry key="ROMANIAN" value="7" />
+        <entry key="MALAGASY" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="3" />
+        <entry key="SWEDISH" value="3" />
+        <entry key="SLOVAK" value="1" />
+        <entry key="SLOVENIAN" value="1" />
+        <entry key="SPANISH" value="3" />
+        <entry key="GREEK" value="2" />
+        <entry key="HINDI" value="1" />
+        <entry key="JAVANESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1628868892835" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>
