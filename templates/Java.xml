@@ -1,0 +1,22 @@
+<templateSet group="Java">
+  <template name="hslog" value="private transient static final HSLogger log = HSLogger.getLogger($CLASS_NAME$.class);" description="add log ins" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="psv" value="public static void $MEATHOD$($ARG$){&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="MEATHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="dlog" value="private transient static final Dhwu1aLog log = new Dhwu1aLog($CLASS_NAME$.class);" description="添加log" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
