@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="set Use Deprecated Executor" />
+      <item value="use Deprecated Executor" />
+      <item value="Controller Advice" />
       <item value="has name 'api' which is the same as a project of the main build." />
       <item value="Could not find org.jetbrains.kotlin:kotlin-st dlib:1.5.21." />
       <item value="was not found in any of the following sources:" />
@@ -51,14 +54,11 @@
       <item value="Expected END_ARRAY but was BEGIN_OBJECT at path .nodeList[0].messageChain[1]" />
       <item value="plus" />
       <item value="Expected STRING but was NULL at path .nodeList[2].messageChain[0].path" />
-      <item value="Suppresses the given compilation warnings in the annotated element." />
-      <item value="Unresolved reference: message" />
-      <item value="Check your module classpath for missing or conflicting dependencies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2176" />
-        <entry key="ENGLISH" value="2177" />
+        <entry key="CHINESE" value="2179" />
+        <entry key="ENGLISH" value="2180" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
