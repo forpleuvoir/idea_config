@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="has name 'api' which is the same as a project of the main build." />
       <item value="Could not find org.jetbrains.kotlin:kotlin-st dlib:1.5.21." />
       <item value="was not found in any of the following sources:" />
       <item value="java.lang.Instantiation Exception:" />
@@ -53,12 +54,11 @@
       <item value="Suppresses the given compilation warnings in the annotated element." />
       <item value="Unresolved reference: message" />
       <item value="Check your module classpath for missing or conflicting dependencies" />
-      <item value="java Class" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2175" />
-        <entry key="ENGLISH" value="2176" />
+        <entry key="CHINESE" value="2176" />
+        <entry key="ENGLISH" value="2177" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
