@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="Out of range value for column 'uuid' at row 1" />
+      <item value="argument type mismatch" />
+      <item value="Could not create connection to database server" />
+      <item value="Attempted reconnect 3 times. Giving up." />
       <item value="set Use Deprecated Executor" />
       <item value="use Deprecated Executor" />
       <item value="Controller Advice" />
@@ -50,15 +54,11 @@
       <item value="'lateinit' modifier is not allowed on properties of primitive types" />
       <item value="callback" />
       <item value="Mutable List" />
-      <item value="Exception In Initializer Error" />
-      <item value="Expected END_ARRAY but was BEGIN_OBJECT at path .nodeList[0].messageChain[1]" />
-      <item value="plus" />
-      <item value="Expected STRING but was NULL at path .nodeList[2].messageChain[0].path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2179" />
-        <entry key="ENGLISH" value="2180" />
+        <entry key="CHINESE" value="2184" />
+        <entry key="ENGLISH" value="2185" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
