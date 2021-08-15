@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="Get this Claim as a String. If the value isn't of type String or it can't be converted to a String, null will be returned." />
       <item value="sign" />
       <item value="Returns a {@link JWTVerifier} builder with the algorithm to be used to validate token signature. @param algorithm that will be used to verify the token's signature. @return {@link JWTVerifier} builder" />
       <item value="if the provided algorithm is null." />
@@ -53,12 +54,11 @@
       <item value="java.lang.Instantiation Exception:" />
       <item value="forpleuvoir.suika.vertx learn.Main Vertx Kt" />
       <item value="FAILED" />
-      <item value="Could not resolve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2221" />
-        <entry key="ENGLISH" value="2222" />
+        <entry key="CHINESE" value="2222" />
+        <entry key="ENGLISH" value="2223" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
