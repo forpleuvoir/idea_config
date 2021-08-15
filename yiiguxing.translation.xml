@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="Rest Controller Advice" />
+      <item value="Http Message Not Readable Exception" />
+      <item value="Malformed Json Exception" />
       <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
       <item value="Controller Advice" />
       <item value="No Handler Found Exception" />
@@ -51,14 +54,11 @@
       <item value="Attempted reconnect 3 times. Giving up." />
       <item value="use Deprecated Executor" />
       <item value="has name 'api' which is the same as a project of the main build." />
-      <item value="Could not find org.jetbrains.kotlin:kotlin-st dlib:1.5.21." />
-      <item value="was not found in any of the following sources:" />
-      <item value="java.lang.Instantiation Exception:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2225" />
-        <entry key="ENGLISH" value="2226" />
+        <entry key="CHINESE" value="2229" />
+        <entry key="ENGLISH" value="2230" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
