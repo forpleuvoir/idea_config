@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="Claim" />
       <item value="UNAUTHORIZED" />
       <item value="CONTINUE" />
       <item value="Fromat" />
@@ -53,12 +54,11 @@
       <item value="Could not resolve compiler classpath. Check if Kotlin Gradle plugin repository is configured in project ':api'." />
       <item value="Cannot resolve external dependency org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.21 because no repositories are defined." />
       <item value="Could not compile build file" />
-      <item value="Plugin [id: 'org.openjfx.javafxplugin'] was not found in any of the following sources:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2216" />
-        <entry key="ENGLISH" value="2217" />
+        <entry key="CHINESE" value="2217" />
+        <entry key="ENGLISH" value="2218" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
