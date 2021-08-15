@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
+      <item value="Controller Advice" />
+      <item value="No Handler Found Exception" />
       <item value="Get this Claim as a String. If the value isn't of type String or it can't be converted to a String, null will be returned." />
       <item value="sign" />
       <item value="Returns a {@link JWTVerifier} builder with the algorithm to be used to validate token signature. @param algorithm that will be used to verify the token's signature. @return {@link JWTVerifier} builder" />
@@ -47,18 +50,15 @@
       <item value="Could not create connection to database server" />
       <item value="Attempted reconnect 3 times. Giving up." />
       <item value="use Deprecated Executor" />
-      <item value="Controller Advice" />
       <item value="has name 'api' which is the same as a project of the main build." />
       <item value="Could not find org.jetbrains.kotlin:kotlin-st dlib:1.5.21." />
       <item value="was not found in any of the following sources:" />
       <item value="java.lang.Instantiation Exception:" />
-      <item value="forpleuvoir.suika.vertx learn.Main Vertx Kt" />
-      <item value="FAILED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2222" />
-        <entry key="ENGLISH" value="2223" />
+        <entry key="CHINESE" value="2225" />
+        <entry key="ENGLISH" value="2226" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
