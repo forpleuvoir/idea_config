@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="sign" />
+      <item value="Returns a {@link JWTVerifier} builder with the algorithm to be used to validate token signature. @param algorithm that will be used to verify the token's signature. @return {@link JWTVerifier} builder" />
+      <item value="if the provided algorithm is null." />
+      <item value="JWTDecodeException if any part of the token contained an invalid jwt or JSON format of each of the jwt parts." />
       <item value="Claim" />
       <item value="UNAUTHORIZED" />
       <item value="CONTINUE" />
@@ -50,15 +54,11 @@
       <item value="forpleuvoir.suika.vertx learn.Main Vertx Kt" />
       <item value="FAILED" />
       <item value="Could not resolve" />
-      <item value="Could not set process working directory to 'D:\workspace\kotlin\suika\api': could not set current directory (errno 2)" />
-      <item value="Could not resolve compiler classpath. Check if Kotlin Gradle plugin repository is configured in project ':api'." />
-      <item value="Cannot resolve external dependency org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.21 because no repositories are defined." />
-      <item value="Could not compile build file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2217" />
-        <entry key="ENGLISH" value="2218" />
+        <entry key="CHINESE" value="2221" />
+        <entry key="ENGLISH" value="2222" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
