@@ -1,64 +1,64 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="560" />
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
-      <item value="java.lang.Instantiation Exception:" />
-      <item value="forpleuvoir.suika.vertx learn.Main Vertx Kt" />
-      <item value="FAILED" />
-      <item value="Could not resolve" />
-      <item value="Could not set process working directory to 'D:\workspace\kotlin\suika\api': could not set current directory (errno 2)" />
-      <item value="Could not resolve compiler classpath. Check if Kotlin Gradle plugin repository is configured in project ':api'." />
-      <item value="Cannot resolve external dependency org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.21 because no repositories are defined." />
-      <item value="Could not compile build file" />
-      <item value="Plugin [id: 'org.openjfx.javafxplugin'] was not found in any of the following sources:" />
-      <item value="Plugin request for plugin already on the classpath must not include a version" />
-      <item value="Location Aware Exception" />
-      <item value="DefaultClassLoaderScope@15afe455 must be locked before it can be used to compute a classpath" />
-      <item value="relative" />
-      <item value="Relative Time Converter" />
-      <item value="get Fully Qualified Name" />
-      <item value="Classic Converter" />
-      <item value="get Logger Name" />
-      <item value="MDC Converter" />
-      <item value="Entry forpleuvoirdhwu1acorecommonApiKeyKt.class is a duplicate but no duplicate handling strategy has been set" />
-      <item value="caller" />
-      <item value="marker" />
-      <item value="Context Name Converter" />
-      <item value="get Name" />
-      <item value="Class Of Caller Converter" />
-      <item value="configuration" />
-      <item value="Entry logback.xml is a duplicate but no duplicate handling strategy has been set. Please refer to" />
-      <item value="&gt; Entry logback.xml is a duplicate but no duplicate handling strategy has been set. Please refer to" />
-      <item value="Could not find org.jetbrains.kotlin:kotlin-stdlib-jdk16:1.5.20." />
-      <item value="initialize" />
-      <item value="initlize" />
-      <item value="Sends &lt;var&gt;text&lt;var&gt; to the connected websocket server." />
-      <item value="Callback for string messages received from the remote host" />
-      <item value="Calls subclass' implementation of &lt;var&gt;onMessage&lt;var&gt;." />
-      <item value="Callback for binary messages received from the remote host" />
-      <item value="get Profile Async" />
-      <item value="Switching Protocols" />
-      <item value="connect Blocking" />
-      <item value="'lateinit' modifier is not allowed on properties of primitive types" />
-      <item value="callback" />
-      <item value="Mutable List" />
-      <item value="Exception In Initializer Error" />
-      <item value="Expected END_ARRAY but was BEGIN_OBJECT at path .nodeList[0].messageChain[1]" />
-      <item value="plus" />
-      <item value="Expected STRING but was NULL at path .nodeList[2].messageChain[0].path" />
-      <item value="Suppresses the given compilation warnings in the annotated element." />
-      <item value="Unresolved reference: message" />
-      <item value="Check your module classpath for missing or conflicting dependencies" />
-      <item value="java Class" />
-      <item value="Unresolved reference: EventHandlerParser" />
-      <item value="component Type" />
+      <item value="Http Message Not Writable Exception" />
+      <item value="replacement" />
+      <item value="Deprecated Configuration Property" />
+      <item value="Rest Controller Advice" />
+      <item value="Http Message Not Readable Exception" />
+      <item value="Malformed Json Exception" />
+      <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
+      <item value="Controller Advice" />
+      <item value="No Handler Found Exception" />
+      <item value="Get this Claim as a String. If the value isn't of type String or it can't be converted to a String, null will be returned." />
+      <item value="sign" />
+      <item value="Returns a {@link JWTVerifier} builder with the algorithm to be used to validate token signature. @param algorithm that will be used to verify the token's signature. @return {@link JWTVerifier} builder" />
+      <item value="if the provided algorithm is null." />
+      <item value="JWTDecodeException if any part of the token contained an invalid jwt or JSON format of each of the jwt parts." />
+      <item value="Claim" />
+      <item value="UNAUTHORIZED" />
+      <item value="CONTINUE" />
+      <item value="Fromat" />
+      <item value="matched" />
+      <item value="mathced" />
+      <item value="matches" />
+      <item value="contains Match In" />
+      <item value="as New Data" />
+      <item value="to Common Data" />
+      <item value="class path resource [loagback.xml] cannot be resolved to URL because it does not exist" />
+      <item value="Could not find an appender named [sql]. Did you define it below instead of above in the configuration file?" />
+      <item value="Pagination Inner Interceptor" />
+      <item value="set Use Deprecated Executor" />
+      <item value="the byte array to encode" />
+      <item value="the output byte array" />
+      <item value="decode Base 64" />
+      <item value="encode Base 64" />
+      <item value="encrypt" />
+      <item value="加密" />
+      <item value="Digest" />
+      <item value="Misc Utils" />
+      <item value="Http Servlet Request" />
+      <item value="set Date Format" />
+      <item value="disable Html Escaping" />
+      <item value="By default, Gson is strict and only accepts JSON as specified by &lt;a href=&quot;http:www.ietf.orgrfcrfc4627.txt&quot;&gt;RFC 4627&lt;a&gt;. This option makes the parser liberal in what it accepts." />
+      <item value="set Lenient" />
+      <item value="'FileNamePattern' option has the same value &quot;.loghistory%d{yyyy-MM-dd}log.%i.log.gz&quot; as that given for appender [info] defined earlier." />
+      <item value="Options -Xverify:none and -noverify were deprecated in JDK 13 and will likely be removed in a future release." />
+      <item value="DENY" />
+      <item value="because the return value of &quot;com.baomidou.mybatisplus.core.metadata.TableInfoHelper.getTableInfo(java.lang.Class)&quot; is null" />
+      <item value="property" />
+      <item value="column" />
+      <item value="Out of range value for column 'uuid' at row 1" />
+      <item value="argument type mismatch" />
+      <item value="Could not create connection to database server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2172" />
-        <entry key="ENGLISH" value="2173" />
+        <entry key="CHINESE" value="2232" />
+        <entry key="ENGLISH" value="2233" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />

@@ -7,7 +7,7 @@
             <list>
               <HostGroup>
                 <option name="env" value="本地" />
-                <option name="url" value="" />
+                <option name="url" value="http://localhost:6927" />
               </HostGroup>
             </list>
           </option>
@@ -87,6 +87,7 @@
         </DataMapping>
       </list>
     </option>
+    <option name="domain" value="http://localhost:6927" />
     <option name="enableEnv" value="本地" />
     <option name="enableFlag" value="true" />
     <option name="enableProject" value="api" />
