@@ -1,9 +1,23 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="560" />
+    <option name="newTranslationDialogWidth" value="558" />
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="Serializable" />
+      <item value="USER NOT LOGIN" />
+      <item value="Expected BEGIN_OBJECT but was STRING at line 1 column 1 path" />
+      <item value="USER NOT FOUND" />
+      <item value="Returns the fully qualified name of the client or the last proxy that sent the request. If the engine cannot or chooses not to resolve the hostname (to improve performance), this method returns the dotted-string form of the IP address. For HTTP servlets, same as the value of the CGI variable &lt;code&gt;REMOTE_HOST&lt;code&gt;. @return a &lt;code&gt;String&lt;code&gt; containing the fully qualified name of the" />
+      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''uuid')' at line 1" />
+      <item value="intercept Path" />
+      <item value="interept Path" />
+      <item value="interest Path" />
+      <item value="interept Paht" />
+      <item value="Interceptor Registration" />
+      <item value="a &lt;code&gt;String&lt;code&gt; containing the value of the requested header, or &lt;code&gt;null&lt;code&gt; if the request does not have a header of that name" />
+      <item value="刷新" />
+      <item value="refsh" />
       <item value="Http Message Not Writable Exception" />
       <item value="replacement" />
       <item value="Deprecated Configuration Property" />
@@ -40,25 +54,11 @@
       <item value="加密" />
       <item value="Digest" />
       <item value="Misc Utils" />
-      <item value="Http Servlet Request" />
-      <item value="set Date Format" />
-      <item value="disable Html Escaping" />
-      <item value="By default, Gson is strict and only accepts JSON as specified by &lt;a href=&quot;http:www.ietf.orgrfcrfc4627.txt&quot;&gt;RFC 4627&lt;a&gt;. This option makes the parser liberal in what it accepts." />
-      <item value="set Lenient" />
-      <item value="'FileNamePattern' option has the same value &quot;.loghistory%d{yyyy-MM-dd}log.%i.log.gz&quot; as that given for appender [info] defined earlier." />
-      <item value="Options -Xverify:none and -noverify were deprecated in JDK 13 and will likely be removed in a future release." />
-      <item value="DENY" />
-      <item value="because the return value of &quot;com.baomidou.mybatisplus.core.metadata.TableInfoHelper.getTableInfo(java.lang.Class)&quot; is null" />
-      <item value="property" />
-      <item value="column" />
-      <item value="Out of range value for column 'uuid' at row 1" />
-      <item value="argument type mismatch" />
-      <item value="Could not create connection to database server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2232" />
-        <entry key="ENGLISH" value="2233" />
+        <entry key="CHINESE" value="2244" />
+        <entry key="ENGLISH" value="2245" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
