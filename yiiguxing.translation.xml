@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="USER NOT LOGIN" />
       <item value="Expected BEGIN_OBJECT but was STRING at line 1 column 1 path" />
       <item value="USER NOT FOUND" />
       <item value="Returns the fully qualified name of the client or the last proxy that sent the request. If the engine cannot or chooses not to resolve the hostname (to improve performance), this method returns the dotted-string form of the IP address. For HTTP servlets, same as the value of the CGI variable &lt;code&gt;REMOTE_HOST&lt;code&gt;. @return a &lt;code&gt;String&lt;code&gt; containing the fully qualified name of the" />
@@ -53,12 +54,11 @@
       <item value="Digest" />
       <item value="Misc Utils" />
       <item value="Http Servlet Request" />
-      <item value="set Date Format" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2242" />
-        <entry key="ENGLISH" value="2243" />
+        <entry key="CHINESE" value="2243" />
+        <entry key="ENGLISH" value="2244" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
