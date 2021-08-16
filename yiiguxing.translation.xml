@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="Returns the fully qualified name of the client or the last proxy that sent the request. If the engine cannot or chooses not to resolve the hostname (to improve performance), this method returns the dotted-string form of the IP address. For HTTP servlets, same as the value of the CGI variable &lt;code&gt;REMOTE_HOST&lt;code&gt;. @return a &lt;code&gt;String&lt;code&gt; containing the fully qualified name of the" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''uuid')' at line 1" />
       <item value="intercept Path" />
       <item value="interept Path" />
@@ -53,12 +54,11 @@
       <item value="set Date Format" />
       <item value="disable Html Escaping" />
       <item value="By default, Gson is strict and only accepts JSON as specified by &lt;a href=&quot;http:www.ietf.orgrfcrfc4627.txt&quot;&gt;RFC 4627&lt;a&gt;. This option makes the parser liberal in what it accepts." />
-      <item value="set Lenient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2238" />
-        <entry key="ENGLISH" value="2239" />
+        <entry key="CHINESE" value="2239" />
+        <entry key="ENGLISH" value="2240" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
