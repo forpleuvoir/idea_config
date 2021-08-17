@@ -1,26 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="556" />
+    <option name="newTranslationDialogWidth" value="558" />
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
-      <item value="Chat Message Regex" />
-      <item value="ENABLE CHAT MESSAGE INJECT REGEX" />
-      <item value="Unresolved reference: HotKeys" />
-      <item value="Immutable List" />
-      <item value="'break' or 'continue' jumps across a function or a class boundary" />
-      <item value="insert String At" />
-      <item value="insert" />
-      <item value=": Illegal escape: ''\\u000C''" />
-      <item value="Cannot invoke &quot;net.minecraft.client.font.TextRenderer.getWidth(String)&quot; because &quot;forpleuvoir.hiirosakura.client.util.StringUtil.fontRenderer&quot; is null" />
-      <item value="Name shadowed: originalStr" />
-      <item value="wrap Width" />
-      <item value="I Initializedable" />
-      <item value="I Initialized Able" />
-      <item value="Initialized Able" />
-      <item value="initialized Able" />
-      <item value="可初始化" />
-      <item value="init" />
       <item value="Serializable" />
       <item value="USER NOT LOGIN" />
       <item value="Expected BEGIN_OBJECT but was STRING at line 1 column 1 path" />
@@ -54,11 +37,28 @@
       <item value="CONTINUE" />
       <item value="Fromat" />
       <item value="matched" />
+      <item value="mathced" />
+      <item value="matches" />
+      <item value="contains Match In" />
+      <item value="as New Data" />
+      <item value="to Common Data" />
+      <item value="class path resource [loagback.xml] cannot be resolved to URL because it does not exist" />
+      <item value="Could not find an appender named [sql]. Did you define it below instead of above in the configuration file?" />
+      <item value="Pagination Inner Interceptor" />
+      <item value="set Use Deprecated Executor" />
+      <item value="the byte array to encode" />
+      <item value="the output byte array" />
+      <item value="decode Base 64" />
+      <item value="encode Base 64" />
+      <item value="encrypt" />
+      <item value="加密" />
+      <item value="Digest" />
+      <item value="Misc Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2255" />
-        <entry key="ENGLISH" value="2256" />
+        <entry key="CHINESE" value="2244" />
+        <entry key="ENGLISH" value="2245" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
         <entry key="RUSSIAN" value="1" />
