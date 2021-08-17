@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="'break' or 'continue' jumps across a function or a class boundary" />
       <item value="insert String At" />
       <item value="insert" />
       <item value=": Illegal escape: ''\\u000C''" />
@@ -53,11 +54,10 @@
       <item value="matches" />
       <item value="contains Match In" />
       <item value="as New Data" />
-      <item value="to Common Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2251" />
+        <entry key="CHINESE" value="2252" />
         <entry key="ENGLISH" value="2252" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="3" />
