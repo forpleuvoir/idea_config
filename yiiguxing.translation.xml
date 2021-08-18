@@ -4,12 +4,12 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="Mutable Map" />
       <item value="noinline" />
       <item value="reified" />
       <item value="Configuration conflict: there is more than one oshi.architecture.properties file on the classpath" />
       <item value="coerce At Least" />
       <item value="coerce At Most" />
-      <item value="Mutable Map" />
       <item value="fetch" />
       <item value="Duplicate versions for mod ID 'hiirosakura'" />
       <item value="Duplicate versions for mod" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2260" />
-        <entry key="ENGLISH" value="2261" />
+        <entry key="CHINESE" value="2261" />
+        <entry key="ENGLISH" value="2262" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
