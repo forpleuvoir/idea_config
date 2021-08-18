@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="Configuration conflict: there is more than one oshi.architecture.properties file on the classpath" />
       <item value="coerce At Least" />
       <item value="coerce At Most" />
       <item value="Mutable Map" />
@@ -53,12 +54,11 @@
       <item value="contains Match In" />
       <item value="as New Data" />
       <item value="to Common Data" />
-      <item value="class path resource [loagback.xml] cannot be resolved to URL because it does not exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2257" />
-        <entry key="ENGLISH" value="2258" />
+        <entry key="CHINESE" value="2258" />
+        <entry key="ENGLISH" value="2259" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
