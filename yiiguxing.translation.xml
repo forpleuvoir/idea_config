@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="get Private Field Value By Type" />
+      <item value="to Typed Array" />
+      <item value="coerce At Most" />
       <item value="Simple Executor" />
       <item value="is Odd" />
       <item value="Type argument is not within its bounds: should be subtype of" />
@@ -18,7 +21,6 @@
       <item value="reified" />
       <item value="Configuration conflict: there is more than one oshi.architecture.properties file on the classpath" />
       <item value="coerce At Least" />
-      <item value="coerce At Most" />
       <item value="fetch" />
       <item value="Duplicate versions for mod ID 'hiirosakura'" />
       <item value="Duplicate versions for mod" />
@@ -52,13 +54,11 @@
       <item value="No Handler Found Exception" />
       <item value="Get this Claim as a String. If the value isn't of type String or it can't be converted to a String, null will be returned." />
       <item value="sign" />
-      <item value="Returns a {@link JWTVerifier} builder with the algorithm to be used to validate token signature. @param algorithm that will be used to verify the token's signature. @return {@link JWTVerifier} builder" />
-      <item value="if the provided algorithm is null." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2267" />
-        <entry key="ENGLISH" value="2268" />
+        <entry key="CHINESE" value="2269" />
+        <entry key="ENGLISH" value="2270" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
