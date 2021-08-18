@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="create Button On Off" />
       <item value="Invocation Target Exception" />
       <item value="java.lang.RuntimeException: java.lang.reflect.InvocationTargetException" />
       <item value="Mixin is defined in hiirosakura.mixins.json and cannot be referenced directly" />
@@ -53,12 +54,11 @@
       <item value="UNAUTHORIZED" />
       <item value="CONTINUE" />
       <item value="Fromat" />
-      <item value="matched" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2257" />
-        <entry key="ENGLISH" value="2258" />
+        <entry key="CHINESE" value="2258" />
+        <entry key="ENGLISH" value="2259" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
