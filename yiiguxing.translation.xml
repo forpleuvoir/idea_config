@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="is Odd" />
+      <item value="Type argument is not within its bounds: should be subtype of" />
+      <item value="until" />
+      <item value="is Currently On" />
       <item value="at Beginning Of Line" />
       <item value="class com.google.gson.internal.LinkedTreeMap cannot be cast to class com.google.gson.JsonObject" />
       <item value="unnamed" />
@@ -50,15 +54,11 @@
       <item value="Returns a {@link JWTVerifier} builder with the algorithm to be used to validate token signature. @param algorithm that will be used to verify the token's signature. @return {@link JWTVerifier} builder" />
       <item value="if the provided algorithm is null." />
       <item value="JWTDecodeException if any part of the token contained an invalid jwt or JSON format of each of the jwt parts." />
-      <item value="Claim" />
-      <item value="UNAUTHORIZED" />
-      <item value="CONTINUE" />
-      <item value="Fromat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2264" />
-        <entry key="ENGLISH" value="2265" />
+        <entry key="CHINESE" value="2266" />
+        <entry key="ENGLISH" value="2267" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
