@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="fetch" />
       <item value="Duplicate versions for mod ID 'hiirosakura'" />
       <item value="Duplicate versions for mod" />
       <item value="Duplicate versions for mod ID" />
@@ -53,12 +54,11 @@
       <item value="Could not find an appender named [sql]. Did you define it below instead of above in the configuration file?" />
       <item value="Pagination Inner Interceptor" />
       <item value="set Use Deprecated Executor" />
-      <item value="the byte array to encode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2248" />
-        <entry key="ENGLISH" value="2249" />
+        <entry key="CHINESE" value="2255" />
+        <entry key="ENGLISH" value="2255" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
