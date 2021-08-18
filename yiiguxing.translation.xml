@@ -4,24 +4,6 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
-      <item value="get Private Field Value By Type" />
-      <item value="to Typed Array" />
-      <item value="coerce At Most" />
-      <item value="Simple Executor" />
-      <item value="is Odd" />
-      <item value="Type argument is not within its bounds: should be subtype of" />
-      <item value="until" />
-      <item value="is Currently On" />
-      <item value="at Beginning Of Line" />
-      <item value="class com.google.gson.internal.LinkedTreeMap cannot be cast to class com.google.gson.JsonObject" />
-      <item value="unnamed" />
-      <item value="com.google.gson.internal.LinkedTreeMap and com.google.gson.JsonObject are in unnamed module of loader 'app')" />
-      <item value="Mutable Map" />
-      <item value="noinline" />
-      <item value="reified" />
-      <item value="Configuration conflict: there is more than one oshi.architecture.properties file on the classpath" />
-      <item value="coerce At Least" />
-      <item value="fetch" />
       <item value="Duplicate versions for mod ID 'hiirosakura'" />
       <item value="Duplicate versions for mod" />
       <item value="Duplicate versions for mod ID" />
@@ -54,11 +36,29 @@
       <item value="No Handler Found Exception" />
       <item value="Get this Claim as a String. If the value isn't of type String or it can't be converted to a String, null will be returned." />
       <item value="sign" />
+      <item value="Returns a {@link JWTVerifier} builder with the algorithm to be used to validate token signature. @param algorithm that will be used to verify the token's signature. @return {@link JWTVerifier} builder" />
+      <item value="if the provided algorithm is null." />
+      <item value="JWTDecodeException if any part of the token contained an invalid jwt or JSON format of each of the jwt parts." />
+      <item value="Claim" />
+      <item value="UNAUTHORIZED" />
+      <item value="CONTINUE" />
+      <item value="Fromat" />
+      <item value="matched" />
+      <item value="mathced" />
+      <item value="matches" />
+      <item value="contains Match In" />
+      <item value="as New Data" />
+      <item value="to Common Data" />
+      <item value="class path resource [loagback.xml] cannot be resolved to URL because it does not exist" />
+      <item value="Could not find an appender named [sql]. Did you define it below instead of above in the configuration file?" />
+      <item value="Pagination Inner Interceptor" />
+      <item value="set Use Deprecated Executor" />
+      <item value="the byte array to encode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2269" />
-        <entry key="ENGLISH" value="2270" />
+        <entry key="CHINESE" value="2248" />
+        <entry key="ENGLISH" value="2249" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />

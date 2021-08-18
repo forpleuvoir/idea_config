@@ -28,7 +28,7 @@
       <map>
         <entry key="3f4bf4da" value="1" />
         <entry key="b6372720" value="2" />
-        <entry key="d419df77" value="2" />
+        <entry key="d419df77" value="3" />
       </map>
     </option>
     <option name="usedLanguages">
@@ -38,7 +38,6 @@
         <option value="kotlin" />
       </set>
     </option>
-    <option name="lastTabnineRecommendationDisplayDate" value="1629080031737" />
-    <option name="tabnineRecommendationDontShowAgain" value="true" />
+    <option name="lastTabnineRecommendationDisplayDate" value="1629210252209" />
   </component>
 </application>
