@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="Invocation Target Exception" />
+      <item value="java.lang.RuntimeException: java.lang.reflect.InvocationTargetException" />
+      <item value="Mixin is defined in hiirosakura.mixins.json and cannot be referenced directly" />
+      <item value="and cannot be referenced directly" />
+      <item value="Write access detected to @Final field options:LnetminecraftclientoptionGameOptions; in hiirosakura.mixins.json:MixinMinecraftClient::setOptions" />
+      <item value="contains non-private static field Companion:LforpleuvoirhiirosakuraclientmixinMixinMinecraftClientCompanion;" />
+      <item value="there is more than one oshi.architecture.properties file on the classpath" />
       <item value="text Predicate" />
       <item value="This cast can never succeed" />
       <item value="as" />
@@ -47,18 +54,11 @@
       <item value="CONTINUE" />
       <item value="Fromat" />
       <item value="matched" />
-      <item value="mathced" />
-      <item value="matches" />
-      <item value="contains Match In" />
-      <item value="as New Data" />
-      <item value="to Common Data" />
-      <item value="class path resource [loagback.xml] cannot be resolved to URL because it does not exist" />
-      <item value="Could not find an appender named [sql]. Did you define it below instead of above in the configuration file?" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2250" />
-        <entry key="ENGLISH" value="2251" />
+        <entry key="CHINESE" value="2257" />
+        <entry key="ENGLISH" value="2258" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
