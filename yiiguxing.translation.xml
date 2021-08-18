@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="class com.google.gson.internal.LinkedTreeMap cannot be cast to class com.google.gson.JsonObject" />
+      <item value="unnamed" />
+      <item value="com.google.gson.internal.LinkedTreeMap and com.google.gson.JsonObject are in unnamed module of loader 'app')" />
       <item value="Mutable Map" />
       <item value="noinline" />
       <item value="reified" />
@@ -51,14 +54,11 @@
       <item value="CONTINUE" />
       <item value="Fromat" />
       <item value="matched" />
-      <item value="mathced" />
-      <item value="matches" />
-      <item value="contains Match In" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2261" />
-        <entry key="ENGLISH" value="2262" />
+        <entry key="CHINESE" value="2264" />
+        <entry key="ENGLISH" value="2265" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
