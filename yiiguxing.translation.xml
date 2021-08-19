@@ -1,9 +1,23 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="556" />
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="OAUTH TOKEN URL" />
+      <item value="illust My Pixiv" />
+      <item value="illust Follow" />
+      <item value="illust Detail" />
+      <item value="ranking" />
+      <item value="comments" />
+      <item value="&quot;指定されたエンドポイントは存在しません" />
+      <item value="指定されたエンドポイントは存在しません" />
+      <item value="Novel" />
+      <item value="ILLUST BOOKMARK USERS" />
+      <item value="coroutine Context" />
+      <item value="Specified file does not seem to be an image" />
+      <item value="Failed to find HTTP client engine implementation in the classpath: consider adding client engine dependency" />
+      <item value="Exception In Initializer Error" />
       <item value="Unresolved reference: tools" />
       <item value="join To String" />
       <item value="create Button On Off" />
@@ -40,25 +54,11 @@
       <item value="refsh" />
       <item value="Http Message Not Writable Exception" />
       <item value="replacement" />
-      <item value="Deprecated Configuration Property" />
-      <item value="Rest Controller Advice" />
-      <item value="Http Message Not Readable Exception" />
-      <item value="Malformed Json Exception" />
-      <item value="Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled." />
-      <item value="Controller Advice" />
-      <item value="No Handler Found Exception" />
-      <item value="Get this Claim as a String. If the value isn't of type String or it can't be converted to a String, null will be returned." />
-      <item value="sign" />
-      <item value="Returns a {@link JWTVerifier} builder with the algorithm to be used to validate token signature. @param algorithm that will be used to verify the token's signature. @return {@link JWTVerifier} builder" />
-      <item value="if the provided algorithm is null." />
-      <item value="JWTDecodeException if any part of the token contained an invalid jwt or JSON format of each of the jwt parts." />
-      <item value="Claim" />
-      <item value="UNAUTHORIZED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2260" />
-        <entry key="ENGLISH" value="2261" />
+        <entry key="CHINESE" value="2272" />
+        <entry key="ENGLISH" value="2273" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
@@ -69,7 +69,7 @@
         <entry key="ROMANIAN" value="7" />
         <entry key="MALAGASY" value="1" />
         <entry key="PORTUGUESE" value="1" />
-        <entry key="JAPANESE" value="3" />
+        <entry key="JAPANESE" value="4" />
         <entry key="SWEDISH" value="3" />
         <entry key="SLOVAK" value="1" />
         <entry key="SLOVENIAN" value="1" />
