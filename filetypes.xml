@@ -8,13 +8,13 @@
       <mapping ext="j3o" type="PLAIN_TEXT" />
       <mapping ext="vox" type="PLAIN_TEXT" />
       <mapping ext="vs" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" type="PLAIN_TEXT" />
+      <mapping ext="txt" type="requirements-pro.txt" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="nbt" approved="true" type="Minecraft NBT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="txt" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="requirements-pro.txt" />
     </extensionMap>
   </component>
 </application>
