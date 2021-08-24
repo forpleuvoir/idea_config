@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="arr" />
       <item value="too Long Omitted" />
       <item value="current" />
       <item value="sort" />
@@ -53,12 +54,11 @@
       <item value="interest Path" />
       <item value="interept Paht" />
       <item value="Interceptor Registration" />
-      <item value="a &lt;code&gt;String&lt;code&gt; containing the value of the requested header, or &lt;code&gt;null&lt;code&gt; if the request does not have a header of that name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2276" />
-        <entry key="ENGLISH" value="2277" />
+        <entry key="CHINESE" value="2277" />
+        <entry key="ENGLISH" value="2278" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
