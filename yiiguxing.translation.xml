@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="it must not be null" />
+      <item value="obj[item.name] must not be null" />
       <item value="arr" />
       <item value="too Long Omitted" />
       <item value="current" />
@@ -52,13 +54,11 @@
       <item value="intercept Path" />
       <item value="interept Path" />
       <item value="interest Path" />
-      <item value="interept Paht" />
-      <item value="Interceptor Registration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2277" />
-        <entry key="ENGLISH" value="2278" />
+        <entry key="CHINESE" value="2279" />
+        <entry key="ENGLISH" value="2280" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
