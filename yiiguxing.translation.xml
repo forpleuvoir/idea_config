@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="get Nested Object" />
       <item value="it must not be null" />
       <item value="obj[item.name] must not be null" />
       <item value="arr" />
@@ -53,12 +54,11 @@
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''uuid')' at line 1" />
       <item value="intercept Path" />
       <item value="interept Path" />
-      <item value="interest Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2279" />
-        <entry key="ENGLISH" value="2280" />
+        <entry key="CHINESE" value="2280" />
+        <entry key="ENGLISH" value="2281" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
