@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="on Change Selected" />
+      <item value="on Change Selecte" />
+      <item value="on Mouse Clicked Impl" />
+      <item value="is Mouse Over" />
       <item value="Deprecated" />
       <item value="get Nested Object" />
       <item value="it must not be null" />
@@ -50,19 +54,15 @@
       <item value="Serializable" />
       <item value="USER NOT LOGIN" />
       <item value="Expected BEGIN_OBJECT but was STRING at line 1 column 1 path" />
-      <item value="USER NOT FOUND" />
-      <item value="Returns the fully qualified name of the client or the last proxy that sent the request. If the engine cannot or chooses not to resolve the hostname (to improve performance), this method returns the dotted-string form of the IP address. For HTTP servlets, same as the value of the CGI variable &lt;code&gt;REMOTE_HOST&lt;code&gt;. @return a &lt;code&gt;String&lt;code&gt; containing the fully qualified name of the" />
-      <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''uuid')' at line 1" />
-      <item value="intercept Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2281" />
-        <entry key="ENGLISH" value="2282" />
+        <entry key="CHINESE" value="2284" />
+        <entry key="ENGLISH" value="2285" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="6" />
+        <entry key="FRENCH" value="7" />
         <entry key="FILIPINO" value="1" />
         <entry key="CATALAN" value="4" />
         <entry key="LATIN" value="2" />
