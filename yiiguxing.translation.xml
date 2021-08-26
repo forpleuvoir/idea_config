@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="task selection" />
+      <item value="task Selection Text" />
       <item value="on Change Selected" />
       <item value="on Change Selecte" />
       <item value="on Mouse Clicked Impl" />
@@ -52,13 +54,11 @@
       <item value="Failed to provide com.mojang:minecraft:1.17.1 : java.net.SocketException: Connection reset" />
       <item value="两次密码不匹配" />
       <item value="Serializable" />
-      <item value="USER NOT LOGIN" />
-      <item value="Expected BEGIN_OBJECT but was STRING at line 1 column 1 path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2284" />
-        <entry key="ENGLISH" value="2285" />
+        <entry key="CHINESE" value="2286" />
+        <entry key="ENGLISH" value="2287" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
