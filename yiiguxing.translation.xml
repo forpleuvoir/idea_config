@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="891" />
     <option name="newTranslationDialogY" value="266" />
     <histories>
+      <item value="coerce At Least" />
       <item value="task selection" />
       <item value="task Selection Text" />
       <item value="on Change Selected" />
@@ -53,12 +54,11 @@
       <item value="schema Version" />
       <item value="Failed to provide com.mojang:minecraft:1.17.1 : java.net.SocketException: Connection reset" />
       <item value="两次密码不匹配" />
-      <item value="Serializable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2286" />
-        <entry key="ENGLISH" value="2287" />
+        <entry key="CHINESE" value="2287" />
+        <entry key="ENGLISH" value="2288" />
         <entry key="DANISH" value="10" />
         <entry key="GERMAN" value="4" />
         <entry key="RUSSIAN" value="1" />
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629816437906" />
+    <option name="lastTrimTime" value="1630258833358" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
